@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description":"👋 Hi there! My name is Cameron Griffin, and I am a software developer with a focus on architecture. I'm passionate about continuously developing my technical skills and am currently pursuing Code Development at Code Fellows, where I am honing my skills in JavaScript and Java programming. I also have experience in a variety of languages such as HTML, CSS, Python, Kotlin, and SQL. I pride myself on my ability to adapt to new technologies and am proficient in various technical skills such as Agile development, test cases, AWS resources, and more. The portfolio you are currently viewing is a template from Code Fellows, and if you find it useful, I would greatly appreciate it if you could ⭐ the repository to make it more recognizable for other users. Thank you! 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,106 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Code Fellows",
+        "startDate": "2022",
+        "description": "Cameron Griffin is committed to developing and honing his technical skills. He is currently pursuing Code Development at Code Fellows, where he is furthering his skills in JavaScript and Java programming. In addition to these languages, Cameron is proficient in a range of others, including HTML, CSS, Python, Kotlin, and SQL. He also has experience in various technical skills such as Agile development, test cases, AWS resources, and more. With his dedication to learning and his ability to adapt to new technologies, Cameron is well-equipped to tackle challenging projects and contribute to the success of any team.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/CheeseComputer-01.png",
+          "images/portfolio/Coding/MagicHour.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Node.js"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bash-plain",
+            "name": "Bash"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-Java-plain",
+            "name": "Java"
           }
         ]
       },
       {
-        "title": "Photography",
+        "title": "Climbing",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Cameron Griffin is a seasoned guide seeking a winter role in the snow profession. He has hard skills learned through the American Alpine Institute such as crevasse rescue, mixed climbing, and top rope site management, making him well equipped to accommodate guests safely on the mountain. With previous experience in data analysis at Facebook and serving as an Infantry Team Leader in the US Marines, Cameron brings a unique set of skills to the table. He has completed guide education through the American Alpine Institute Mountain Instructor Professional Training Program, holds certifications and qualifications such as AMGA Single Pitch Instructor and Leave No Trace Trainer, and has two full seasons of backcountry skiing experience.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Climbing/Prusik_pose.png",
+          "images/portfolio/Climbing/LookUpAtLead.png",
+          "images/portfolio/Climbing/Prusik_pose.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-skiing-original",
+            "name": "Skiing"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-climbing-plain",
+            "name": "Climbing"
+          },
+          {
+            "class": "devicon-Kotlin-plain",
+            "name": "Kotlin"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Seattle Tech",
+        "startDate": "2017",
+        "description": "I began my career as a support engineer at a startup called 'Curalate'. During my time there, I developed the ability to adapt swiftly and gain knowledge of various emerging technologies. Although the work environment was pleasant and engaging, I yearned for a greater sense of purpose and impact. Therefore, when the chance arose to join Facebook in 2018, I eagerly seized it. However, I soon realized that the impact I was making there did not align with my desired contribution to the world. Consequently, I made a complete shift away from the technology industry.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/FB_Face.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-R-plain",
+            "name": "R"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Facebook",
+        "title": "Data Analyst",
+        "years": "12.2017 - 8.2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
+          "node.JS",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "R",
+          "GraphQL"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Curalate",
+        "title": "Support Engineer",
+        "years": "01.2017 - 12.2017",
         "mainTech": [
-          "Angular 7/8"
+          "Scala"
         ],
         "technologies": [
-          "RxJS",
           "Django",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "JavaScript"
         ]
       }
     ]
