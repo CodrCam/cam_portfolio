@@ -18,7 +18,7 @@
           "images/CheeseComputer-01.png",
           "images/portfolio/Coding/MagicHour.jpg"
         ],
-        "url": "",
+        "url": "https://memory-gamers.github.io/memory-game/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -43,7 +43,7 @@
           "images/portfolio/Climbing/LookUpAtLead.png",
           "images/portfolio/Climbing/Prusik_pose.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/codrcam",
         "technologies": [
           {
             "class": "devicon-skiing-original",
@@ -67,7 +67,7 @@
           "images/FB_Face.png",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/codrcam",
         "technologies": [
           {
             "class": "devicon-python-plain",
